@@ -9,8 +9,16 @@
     "test": "jest"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fontsource/roboto": "^5.2.5",
+    "@mui/material": "^6.4.8",
+    "axios": "^1.8.3",
+    "dotenv": "^16.4.7",
+    "env": "^0.0.2",
     "ethers": "^5.6.0",
     "ipfs-http-client": "^56.0.1",
+    "path": "^0.12.7",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
